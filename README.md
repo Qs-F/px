@@ -1,2 +1,2 @@
 # px
-px - A solution to minimize design process futileness, for designer
+px - A solution to minimize design process futileness, for designers
